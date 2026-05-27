@@ -1,6 +1,6 @@
  {
   "name": "DARKZONE-MD",
-  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
+  "description": "Javascript WhatsApp bot made by Bot musique",
   "logo": "https://files.catbox.moe/jecbfo.jpg",
   "keywords": ["DARKZONE-MD"],
   "success_url": "/",
@@ -88,18 +88,6 @@
       "description": "Type custom message on status reply",
       "required": true,
       "value": "*SEEN YOUR STATUS BY DARKZONE-MD ❤️*"
-    }, 
-    
-    "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
-      "required": false,
-      "value": "ERFAN"
-    }, 
-
-    "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
-      "required": false,
-      "value": "923306137477"
     }, 
 
     "BOT_NAME": {
